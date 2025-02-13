@@ -1,6 +1,6 @@
 # Hi there, I'm Peter Strössler - acountname: peterruler 👋
 
-![Welcome Banner](hero-image.png)
+<img src="hero-image.png" alt="Welcome Banner" width="50%">
 
 ## About Me
 - 👨‍💻 I work in an E-Health company as a Software Developer.
