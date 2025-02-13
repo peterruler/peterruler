@@ -3,7 +3,7 @@
 ![Welcome Banner](hero-image.png)
 
 ## About Me
-- 👨‍💻 I work in a E-Health company as a Software Developer.
+- 👨‍💻 I work in an E-Health company as a Software Developer.
 - 🎓 I have a BSc in Computer Science from ZHAW School of Engineering.
 - 🌱 I’m currently learning new programming languages and technologies like AI.
 - 👯 I’m looking to collaborate on open source projects.
