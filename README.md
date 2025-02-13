@@ -1,8 +1,10 @@
 # Hi there, I'm Peter Strössler - acountname: peterruler 👋
 
+![Welcome Banner](hero-image.png)
+
 ## About Me
-- I work in the IT department of an E-Health company as a Software Developer.
-- I have a BSc in Computer Science from ZHAW School of Engineering.
+- 👨‍💻 I work in a E-Health company as a Software Developer.
+- 🎓 I have a BSc in Computer Science from ZHAW School of Engineering.
 - 🌱 I’m currently learning new programming languages and technologies like AI.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about software development, coding best practices, and technology trends.
@@ -10,6 +12,7 @@
 
 ## My GitHub Stats
 ![Peter Rulers' GitHub stats](https://github-readme-stats.vercel.app/api?username=peterruler&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterruler&layout=compact&theme=radical)
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -27,11 +30,9 @@
 - [Llama Flask Server](https://github.com/peterruler/llama-server): Llama Flask Server.
 - [Angular Hotel App](https://github.com/peterruler/hotel-app): Angular Hotel App Frontend.
 - [Cats & Dogs Computer Vision AI App](https://github.com/peterruler/react-native-frontend): Cats & Dogs Computer Vision AI App.
-- [Cats & Dogs Computer Vision AI Rest Backend](https://github.com/peterruler/flask-backend
-): Cats & Dogs Computer Vision AI Rest Backend / Flask Server.
-- [Cats & Dogs Computer Vision AI Web Frontend](https://github.com/peterruler/react-webapp-frontend
-): Cats & Dogs Computer Vision AI Web Frontend.
+- [Cats & Dogs Computer Vision AI Rest Backend](https://github.com/peterruler/flask-backend): Cats & Dogs Computer Vision AI Rest Backend / Flask Server.
+- [Cats & Dogs Computer Vision AI Web Frontend](https://github.com/peterruler/react-webapp-frontend): Cats & Dogs Computer Vision AI Web Frontend.
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/peter-str%C3%B6ssler-364187117/)
-- [My Homepage](https://www.peterstroessler.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/peter-str%C3%B6ssler-364187117/)
+[![Homepage](https://img.shields.io/badge/-Homepage-black?style=flat-square&logo=google-chrome)](https://www.peterstroessler.com)
