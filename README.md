@@ -11,7 +11,6 @@
 - 📫 How to reach me: [7starch@gmail.com](mailto:7starch@gmail.com)
 
 ## My GitHub Stats
-![Peter Rulers' GitHub stats](https://github-readme-stats.vercel.app/api?username=peterruler&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterruler&layout=compact&theme=radical)
 
 ## Languages and Tools
