@@ -1,4 +1,4 @@
-# Hi there, I'm Peter Strössler - accountname: peterruler 👋
+# Hi there, I'm Peter Strössler👋
 
 <img src="hero-image.png" alt="Welcome Banner" width="30%">
 
