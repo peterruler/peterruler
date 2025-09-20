@@ -36,3 +36,11 @@
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/peter-str%C3%B6ssler-364187117/)
 [![Homepage](https://img.shields.io/badge/-Homepage-black?style=flat-square&logo=google-chrome)](https://www.peterstroessler.com)
+
+## How it's done
+
+![Made with Love](https://img.shields.io/badge/Made_with-♥-ff69b4?style=flat-square&logo=github&logoColor=white)
+
+## Visitors counter
+
+![Profilaufrufe](https://komarev.com/ghpvc/?username=peterruler&label=Profile%20Views&color=0e75b6&style=flat)
