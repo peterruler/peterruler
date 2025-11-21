@@ -36,6 +36,7 @@
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/peter-str%C3%B6ssler-364187117/)
 [![Homepage](https://img.shields.io/badge/-Homepage-black?style=flat-square&logo=google-chrome)](https://www.peterstroessler.com)
+![Discord](https://img.shields.io/badge/Discord-peterruler-5865F2?logo=discord&logoColor=white)
 
 ## How it's done
 
