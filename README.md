@@ -90,7 +90,7 @@ I build software at an E-Health company and explore AI/ML in my spare time — f
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter_Strössler-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-strössler-364187117/)
 [![Website](https://img.shields.io/badge/Website-peterstroessler.com-000?style=flat-square&logo=google-chrome&logoColor=white)](https://www.peterstroessler.com)
 [![Discord](https://img.shields.io/badge/Discord-peterruler-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1441517280990331011)
-[![Email](https://img.shields.io/badge/Email-7starch@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://peterstroessler.com/#contact)
+[![Email](https://img.shields.io/badge/Email-Kontaktformular-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://peterstroessler.com/#contact)
 
 ---
 
